@@ -1,0 +1,3 @@
+[submodule "moroware"]
+	path = moroware
+	url = git@github.com:nakasyou/moroware.git
